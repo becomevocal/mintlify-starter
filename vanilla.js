@@ -80,10 +80,7 @@ document.head.appendChild(link);
         "How does this work?",
       ],
     };
-  </script>
 
-  <!-- Shopping Assistant Widget Script -->
-  <script>
     (function() {
   'use strict';
 
