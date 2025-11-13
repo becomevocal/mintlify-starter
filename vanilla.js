@@ -2,7 +2,7 @@
 
 const link = document.createElement('link');
 link.rel = 'stylesheet';
-link.href = 'https://cdn.jsdelivr.net/npm/vanilla-agent@1.2.0/dist/widget.css';
+link.href = 'https://cdn.jsdelivr.net/npm/vanilla-agent@1.5.0/dist/widget.css';
 document.head.appendChild(link);
 
     window.ShoppingAssistantConfig = {
